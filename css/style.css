@@ -7,3 +7,17 @@
   justify-content:space-between;
   
 }
+#userChoice{
+  color:blue;
+  background-color: green;
+}
+#computerChoice{
+  color:orange;
+  background-color: red;
+}
+#you{
+  background-color: green;
+}
+#CPU{
+  background-color: red;
+}
